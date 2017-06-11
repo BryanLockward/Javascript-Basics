@@ -1,0 +1,44 @@
+body{
+  background-color: #1d355c;
+  width:970px;
+}
+header,main,footer{
+  color:white;
+}
+header{
+  background-color: red;
+  margin-top: 10px;
+  margin-bottom:15px;
+  margin-right:10px;
+  border-radius: 25px;
+  padding:4px;
+  padding-left:25px;
+
+}
+#side{
+
+  background-color: teal;
+  width: 23%;
+  display:inline-block;
+  padding:15px;
+  vertical-align:top;
+  border-radius: 25px;
+  margin-right:10px;
+}
+#mainbody{
+  background-color: black;
+  border-radius: 25px;
+  display:inline-block;
+  padding:15px;
+  width:68%;
+}
+span{
+  color:#6d80ce;
+  text-decoration: underline;
+}
+footer{
+  background-color: teal;
+  padding:15px;
+  border-radius: 25px;
+  margin:10px;
+}
